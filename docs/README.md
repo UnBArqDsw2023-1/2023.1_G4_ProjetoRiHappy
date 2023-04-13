@@ -1,26 +1,27 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
+# Repositorio 2023.1_G4_ProjetoRiHappy
 
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2023.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
-# Nome do Projeto
+# Projeto Ri Happy
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 04<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 20/0057227 | Caio Vitor Carneiro |
+| 19/0042432 | Felipe Alef |
+| 19/0088745 | Iago de Paula |
+| 19/0089792 | Joao Victor Correia |
+| 18/0105051 | Lívia Rodrigues Reis  |
+| 19/0093196 | Mateus Caltabiano |
+| 19/0093480 | Matheus Soares |
+| 18/0067265 | Pedro Daia Cardoso |
+| 19/0094486 | Pedro Henrique Nogueira  |
+| 20/2017503 | Wildemberg Sales da Silva Junior |
+
+
+<!-- ## Descrição_Projeto
+RiHappy, Perfil Comprador, e fluxos compreendidos do cadastro na plataforma até visualização/compra/pagamento de produtos. -->
 
 ## Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
@@ -38,7 +39,7 @@ Adicione 2 ou mais screenshots em termos de artefatos da Terceira Entrega.
 Adicione 2 ou mais screenshots em termos de artefatos da Quarta Entrega.
 
 ## Descritivo dos Principais Aspectos Técnicos 
-**Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
+**Principal(is) Metodologia(s) Adotada(s)**: Scrum, Pair Programming<br>
 **Principais Linguagens Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principais Tecnologias Utilizadas e/ou Pretendidas**: xxxxxx<br>
 **Principal(is) Estilo(s) Arquitetural(is) Adotado(s)**: xxxxxx<br>

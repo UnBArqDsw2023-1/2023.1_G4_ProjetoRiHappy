@@ -1,12 +1,12 @@
-# RepositorioTemplate
-
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+# Repositorio 2023.1_G4_ProjetoRiHappy
 
 ## Introdução
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+Este repositório é designado ao Grupo 4 da matéria de arquitetura e desenho de software orientado pela professora Milene Serrano.
 
 ## Tecnologia
+
+Para utilização do docsify utilize os seguintes comandos abaixo:
 
 A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
 
