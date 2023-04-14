@@ -1,10 +1,12 @@
-# Repositorio 2023.1_G4_ProjetoRiHappy
+# Projeto Ri Happy - Grupo 4
 
 ## Introdução
 
 Este repositório é designado ao Grupo 4 da matéria de arquitetura e desenho de software orientado pela professora Milene Serrano.
 
-## Tecnologia
+## Tecnologias
+
+## Servidor Local
 
 Para utilização do docsify utilize os seguintes comandos abaixo:
 
@@ -29,3 +31,18 @@ Para iniciar o site localmente, utilize o comando:
 ```shell
 docsify serve ./docs
 ```
+
+## Integrantes
+
+|Matrícula | Aluno |
+| -- | -- |
+| 20/0057227 | Caio Vitor Carneiro |
+| 19/0042432 | Felipe Alef |
+| 19/0088745 | Iago de Paula |
+| 19/0089792 | Joao Victor Correia |
+| 18/0105051 | Lívia Rodrigues Reis  |
+| 19/0093196 | Mateus Caltabiano |
+| 19/0093480 | Matheus Soares |
+| 18/0067265 | Pedro Daia Cardoso |
+| 19/0094486 | Pedro Henrique Nogueira  |
+| 20/2017503 | Wildemberg Sales da Silva Junior |
