@@ -34,15 +34,16 @@ docsify serve ./docs
 
 ## Integrantes
 
-|Matrícula | Aluno |
-| -- | -- |
-| 20/0057227 | Caio Vitor Carneiro |
-| 19/0042432 | Felipe Alef |
-| 19/0088745 | Iago de Paula |
-| 19/0089792 | Joao Victor Correia |
-| 18/0105051 | Lívia Rodrigues Reis  |
-| 19/0093196 | Mateus Caltabiano |
-| 19/0093480 | Matheus Soares |
-| 18/0067265 | Pedro Daia Cardoso |
-| 19/0094486 | Pedro Henrique Nogueira  |
-| 20/2017503 | Wildemberg Sales da Silva Junior |
+| |Matrícula | Aluno |
+|:--:|:--:|:--:|
+|<img style="width:80px;" src="./images/caio.jpg"/>| 20/0057227 | Caio Vitor Carneiro |
+|<img style="width:80px;" src="./images/alef.jpg"/> | 19/0042432 | Felipe Alef |
+|<img style="width:80px;" src="./images/iago.jpg"/> | 19/0088745 | Iago de Paula |
+|<img style="width:80px;" src="./images/correia.jpg"/> | 19/0089792 | Joao Victor Correia |
+|<img style="width:80px;" src="./images/livia.jpg"/> | 18/0105051 | Lívia Rodrigues Reis  |
+|<img style="width:80px;" src="./images/caltabiano.jpeg"/> | 19/0093196 | Mateus Caltabiano |
+|<img style="width:80px;" src="./images/matheus.jpeg"/> | 19/0093480 | Matheus Soares |
+|<img style="width:80px;" src="./images/salim.jpeg"/>|17/0122310 | Matheus Salim de Oliveira |
+| <img style="width:80px;" src="./images/daia.png"/>| 18/0067265 | Pedro Daia Cardoso |
+| <img style="width:80px;" src="./images/nog.jpeg"/>| 19/0094486 | Pedro Henrique Nogueira  |
+|<img style="width:80px;" src="./images/will.png"/> | 20/2017503 | Wildemberg Sales da Silva Junior |
