@@ -28,9 +28,9 @@ Na prática fica claro que ter um heatmap com os horários vagos dos membros da 
 
 ## 5. Histórico de versões
 
-| Versão | Descrição             | Autor             | Revisor | Data       |
-| ------ | --------------------- | ----------------- | ------- | ---------- |
-| 1.0    | Abertura do documento | Mateus Caltabiano |         | 17/04/2023 |
+| Versão | Descrição             | Autor             | Revisor          | Data       |
+| ------ | --------------------- | ----------------- | ---------------- | ---------- |
+| 1.0    | Abertura do documento | Mateus Caltabiano | Vinícius Roriz   | 17/04/2023 |
 
 ## 6. Referências bibliográficas
 
