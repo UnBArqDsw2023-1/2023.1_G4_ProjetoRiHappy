@@ -44,6 +44,6 @@ docsify serve ./docs
 |<img style="width:80px;" src="./images/caltabiano.jpeg"/> | 19/0093196 | Mateus Caltabiano |
 |<img style="width:80px;" src="./images/matheus.jpeg"/> | 19/0093480 | Matheus Soares |
 |<img style="width:80px;" src="./images/salim.jpeg"/>|17/0122310 | Matheus Salim de Oliveira |
-| <img style="width:80px;" src="./images/daia.png"/>| 18/0067265 | Pedro Daia Cardoso |
-| <img style="width:80px;" src="./images/nog.jpeg"/>| 19/0094486 | Pedro Henrique Nogueira  |
+|<img style="width:80px;" src="./images/nog.jpeg"/>| 19/0094486 | Pedro Henrique Nogueira  |
+|<img style="width:80px;" src="./images/vinicius.png"/>| 19/0020814 | Vinícius Roriz |
 |<img style="width:80px;" src="./images/will.png"/> | 20/2017503 | Wildemberg Sales da Silva Junior |
