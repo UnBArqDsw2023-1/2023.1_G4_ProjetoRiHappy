@@ -115,7 +115,7 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 
 | Versão | Descrição             | Autor             | Revisor | Data       |
 | ------ | --------------------- | ----------------- | ------- | ---------- |
-| 1.0    | Abertura do documento | Mateus Caltabiano |         | 23/04/2023 |
+| 1.0    | Abertura do documento | Mateus Caltabiano | Matheus Soares | 23/04/2023 |
 
 ## 6. Referências bibliográficas
 
