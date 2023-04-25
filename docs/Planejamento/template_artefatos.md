@@ -1,16 +1,16 @@
-# (Nome do Artefato)
+# Template para os artefatos
 
 ## 1. Introdução
 
-Escrever uma breve introdução sobre o artefato apresentado.
+[Escrever uma breve introdução sobre o artefato apresentado.]
 
 ## 2. Metodologia
 
-Escrever sobre como o artefato foi ou será feito.
+[Escrever sobre como o artefato foi ou será feito.]
 
 ## 3. Artefato
 
-Apresentação do artefato.
+[Apresentação do artefato.]
 
 ## 4. Histórico de versões
 
