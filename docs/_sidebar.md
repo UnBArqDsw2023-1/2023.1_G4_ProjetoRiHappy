@@ -40,3 +40,8 @@
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.ParticipacoesArqReutilizacao.md)
+
+- **Planejamento**
+  - [5.1 Cronograma](/Planejamento/cronograma.md)
+  - [5.2 Heatmap](/Planejamento/heatmap.md)
+  - [5.1 Template de artefatos](/Planejamento/template_artefatos.md)

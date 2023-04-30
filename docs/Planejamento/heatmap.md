@@ -17,7 +17,7 @@ Para fazer o heatmap, foi criado uma tabela no excel com todos os dias da semana
 <center>
 <figure>
     <figcaption style= "font-size: 12px">Figura 1 - Heatmap do grupo</figcaption>
-    <img src="../../images/heatmap.png"/ alt= "heatmap" width= "500">
+    <img src="images/heatmap.png" alt= "heatmap" width= "500" />
     <figcaption style= "font-size: 12px">Fonte: Grupo 4</figcaption>
 </figure>
 </center>
@@ -31,6 +31,7 @@ Na prática fica claro que ter um heatmap com os horários vagos dos membros da 
 | Versão | Descrição             | Autor             | Revisor          | Data       |
 | ------ | --------------------- | ----------------- | ---------------- | ---------- |
 | 1.0    | Abertura do documento | Mateus Caltabiano | Vinícius Roriz   | 17/04/2023 |
+| 1.1    | Alteração no caminho da imagem | Vinícius Roriz  |   | 30/04/2023 |
 
 ## 6. Referências bibliográficas
 
