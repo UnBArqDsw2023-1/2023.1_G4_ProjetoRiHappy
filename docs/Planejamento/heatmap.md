@@ -14,13 +14,12 @@ Para fazer o heatmap, foi criado uma tabela no excel com todos os dias da semana
 
 ## 3. Heatmap
 
-<center>
+![](./images/heatmap.png)
 <figure>
-    <figcaption style= "font-size: 12px">Figura 1 - Heatmap do grupo</figcaption>
-    <img src="images/heatmap.png" alt= "heatmap" width= "500" />
-    <figcaption style= "font-size: 12px">Fonte: Grupo 4</figcaption>
+    <figcaption style= "font-size: 14px">Figura 1 - Heatmap do grupo</figcaption>
+    <figcaption style= "font-size: 14px">Fonte: Grupo 4</figcaption>
 </figure>
-</center>
+
 
 ## 4. Conclusão
 
