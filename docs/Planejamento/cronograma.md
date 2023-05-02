@@ -113,11 +113,9 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 
 ### 3.1 - Entrega 1: Base
 
-#### Vencimento da entrega: 24/04
-
 <center>
     <p style="font-size: 14px">
-        Tabela 5: cronograma previsto para a primeira entrega
+        Tabela 5: cronograma executado da primeira entrega
     </p>
 
 | Data de entrega                         | Atividade                          | Responsável                                          |
