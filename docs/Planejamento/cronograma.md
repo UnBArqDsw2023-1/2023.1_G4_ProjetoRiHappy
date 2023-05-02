@@ -143,9 +143,10 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 
 ## 5. Histórico de versões
 
-| Versão | Descrição             | Autor             | Revisor        | Data       |
-| ------ | --------------------- | ----------------- | -------------- | ---------- |
-| 1.0    | Abertura do documento | Mateus Caltabiano | Matheus Soares | 23/04/2023 |
+| Versão | Descrição                                   | Autor             | Revisor        | Data       |
+| ------ | ------------------------------------------- | ----------------- | -------------- | ---------- |
+| 1.0    | Abertura do documento                       | Mateus Caltabiano | Matheus Soares | 23/04/2023 |
+| 1.1    | Adição do cronograma executado da entrega 1 | Mateus Caltabiano |                | 02/05/2023 |
 
 ## 6. Referências bibliográficas
 
