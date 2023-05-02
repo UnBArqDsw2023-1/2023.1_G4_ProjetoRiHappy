@@ -6,7 +6,7 @@ Este artefato apresenta uma tabela com o cronograma de atividades previstas para
 
 ## 2. Metodologia
 
-O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora Milene e pelas diretrizes de entrega. Foi dividido em 4 tabelas, uma para cada entrega. As tabelas de cronograna executado serão adicionadas após a conclusão da entrega
+O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora Milene e pelas diretrizes de entrega. Foi dividido em 4 tabelas, uma para cada entrega. As tabelas de cronograma executado serão adicionadas após a conclusão da entrega. As datas apresentadas em cor verde foram concluídas dentro do prazo, enquanto as de cor vermelha foram concluídas com atraso no prazo previsto.
 
 ## 3. Cronograma previsto
 
@@ -111,10 +111,42 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 
 ## 4. Cronograma executado
 
+### 3.1 - Entrega 1: Base
+
+#### Vencimento da entrega: 24/04
+
+<center>
+    <p style="font-size: 14px">
+        Tabela 5: cronograma previsto para a primeira entrega
+    </p>
+
+| Data de entrega                         | Atividade                          | Responsável                                          |
+| --------------------------------------- | ---------------------------------- | ---------------------------------------------------- |
+| <span style="color: green">12/04</span> | Elaborar o Heatmap                 | Mateus Caltabiano                                    |
+| <span style="color: green">14/04</span> | Criar a GitPages                   | Wildemberg Sales                                     |
+| <span style="color: red">17/04</span>   | Atualizar o README                 | Wildemberg Sales                                     |
+| <span style="color: green">15/04</span> | Criar o template para os artefatos | Mateus Caltabiano                                    |
+| <span style="color: green">17/04</span> | Fazer documento do Heatmap         | Mateus Caltabiano                                    |
+| <span style="color: green">15/04</span> | Fazer a análise 5W2H               | Iago Cabral, Mateus Caltabiano, João Victor Correia  |
+| <span style="color: green">18/04</span> | Reunião para confeccionar o BPMN   | Todos                                                |
+| <span style="color: green">18/04</span> | Criar o Rich Picture               | Caio Vitor Carneiro, Wildemberg Sales                |
+| <span style="color: red">23/04</span>   | Fazer documento da design sprint   | Lívia Rodrigues, Pedro Henrique Nogueira             |
+| <span style="color: green">16/04</span> | Fazer os léxicos                   | Matheus Soares, PEdro Henrique Nogueira, Felipe Alef |
+| <span style="color: red">23/04</span>   | Fazer relato sobre participações   | Todos                                                |
+| <span style="color: green">18/04</span> | Fazer a modelagem BPMN             | Todos                                                |
+| <span style="color: red">23/04</span>   | Fazer o cronograma do semestre     | Mateus Caltabiano                                    |
+| <span style="color: red">24/04</span>   | Fazer documento do BPMN            | Felipe Alef, Mateus Caltabiano                       |
+| <span style="color: red">29/04</span>   | Preparar a apresentação            | Todos                                                |
+
+<p style="font-size: 14px">
+        Fonte: Grupo 4
+</p>
+</center>
+
 ## 5. Histórico de versões
 
-| Versão | Descrição             | Autor             | Revisor | Data       |
-| ------ | --------------------- | ----------------- | ------- | ---------- |
+| Versão | Descrição             | Autor             | Revisor        | Data       |
+| ------ | --------------------- | ----------------- | -------------- | ---------- |
 | 1.0    | Abertura do documento | Mateus Caltabiano | Matheus Soares | 23/04/2023 |
 
 ## 6. Referências bibliográficas
