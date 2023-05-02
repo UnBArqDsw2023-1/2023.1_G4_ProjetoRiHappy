@@ -1,4 +1,4 @@
-# Template para os artefatos
+# [Nome do artefato]
 
 ## 1. Introdução
 
@@ -8,7 +8,7 @@
 
 [Escrever sobre como o artefato foi ou será feito.]
 
-## 3. Artefato
+## 3. [Artefato]
 
 [Apresentação do artefato.]
 
