@@ -25,6 +25,7 @@
     - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](/Modelagem/2.1.ModelagemTradicional.md)
       - [2.1.1. Notação UML – Diagramas Estáticos](/Modelagem/2.1.1.UMLEstaticos.md)
       - [2.1.1.1. Diagrama de Classes](/Modelagem/2.1.1.1.DiagramadeClasses.md)
+      - [2.1.1.2. Diagrama de Pacotes](/Modelagem/2.1.1.2.DiagramaDePacotes.md)
       - [2.1.2. Notação UML – Diagramas Dinâmicos](/Modelagem/2.1.2.UMLDinamicos.md)
       - [2.1.2.1. Diagrama de Sequência](/Modelagem/2.1.2.1DiagramaDeSequencia.md)
       - [2.1.2.2. Diagrama de Estados](/Modelagem/2.1.2.2.DiagramadeEstados.md)
