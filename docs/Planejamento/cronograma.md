@@ -53,9 +53,11 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 
 | Data limite de entrega | Atividade                           |
 | ---------------------- | ----------------------------------- |
-| 25/04                  | Planning                            |
-| 05/05                  | Elaborar os diagramas estáticos     |
-| 12/05                  | Elaborar os diagramas dinâmicos     |
+| 02/05                  | Planning                            |
+| 13/05                  | Elaborar o diagrama de classes      |
+| 13/05                  | Elaborar o diagrama de pacotes      |
+| 13/05                  | Elaborar o diagrama de sequência    |
+| 13/05                  | Elaborar o diagrama de estados      |
 | 14/05                  | Elaborar relatório de participações |
 | 14/05                  | Preparar a apresentação             |
 
@@ -111,7 +113,7 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 
 ## 4. Cronograma executado
 
-### 3.1 - Entrega 1: Base
+### 4.1 - Entrega 1: Base
 
 <center>
     <p style="font-size: 14px">
@@ -129,7 +131,7 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 | <span style="color: green">18/04</span> | Reunião para confeccionar o BPMN   | Todos                                                |
 | <span style="color: green">18/04</span> | Criar o Rich Picture               | Caio Vitor Carneiro, Wildemberg Sales                |
 | <span style="color: red">23/04</span>   | Fazer documento da design sprint   | Lívia Rodrigues, Pedro Henrique Nogueira             |
-| <span style="color: green">16/04</span> | Fazer os léxicos                   | Matheus Soares, PEdro Henrique Nogueira, Felipe Alef |
+| <span style="color: green">16/04</span> | Fazer os léxicos                   | Matheus Soares, Pedro Henrique Nogueira, Felipe Alef |
 | <span style="color: red">23/04</span>   | Fazer relato sobre participações   | Todos                                                |
 | <span style="color: green">18/04</span> | Fazer a modelagem BPMN             | Todos                                                |
 | <span style="color: red">23/04</span>   | Fazer o cronograma do semestre     | Mateus Caltabiano                                    |
@@ -141,12 +143,35 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 </p>
 </center>
 
+### 4.2 - Entrega 2: Modelagem
+
+<center>
+    <p style="font-size: 14px">
+        Tabela 5: cronograma executado da primeira entrega
+    </p>
+
+| Data de entrega                         | Atividade                           | Responsável                                          |
+| --------------------------------------- | ----------------------------------- | ---------------------------------------------------- |
+| <span style="color: green">02/05</span> | Planning                            | Todos                                                |
+| <span style="color: green">11/05</span> | Elaborar o diagrama de classes      | Iago Cabral, Pedro Henrique Nogueira, Vinícius Roriz |
+| <span style="color: green">13/05</span> | Elaborar o diagrama de pacotes      | Caio Vitor Carneiro, Wildemberg Sales                |
+| <span style="color: red">14/05</span>   | Elaborar o diagrama de sequência    | Felipe Alef, Mateus Caltabiano, Matheus Soares       |
+| <span style="color: red">14/05</span>   | Elaborar o diagrama de estados      | João Victor Correia, Lívia Rodrigues                 |
+| <span style="color: green">14/05</span> | Elaborar relatório de participações | Todos                                                |
+| <span style="color: green">14/05</span> | Preparar a apresentação             | Todos                                                |
+
+<p style="font-size: 14px">
+        Fonte: Grupo 4
+</p>
+</center>
+
 ## 5. Histórico de versões
 
-| Versão | Descrição                                   | Autor             | Revisor        | Data       |
-| ------ | ------------------------------------------- | ----------------- | -------------- | ---------- |
-| 1.0    | Abertura do documento                       | Mateus Caltabiano | Matheus Soares | 23/04/2023 |
-| 1.1    | Adição do cronograma executado da entrega 1 | Mateus Caltabiano |                | 02/05/2023 |
+| Versão | Descrição                                                                             | Autor             | Revisor        | Data       |
+| ------ | ------------------------------------------------------------------------------------- | ----------------- | -------------- | ---------- |
+| 1.0    | Abertura do documento                                                                 | Mateus Caltabiano | Matheus Soares | 23/04/2023 |
+| 1.1    | Adição do cronograma executado da entrega 1                                           | Mateus Caltabiano | Matheus Soares | 02/05/2023 |
+| 1.2    | Detalhamento do cronograma da entrega 2 e adição do cronograma executado da entrega 2 | Mateus Caltabiano | Matheus Soares | 14/05/2023 |
 
 ## 6. Referências bibliográficas
 
