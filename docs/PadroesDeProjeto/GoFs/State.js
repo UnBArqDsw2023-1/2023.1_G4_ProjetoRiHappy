@@ -62,3 +62,26 @@ class Produto {
     }
   }
 }
+
+// Classe Pedido
+class Pedido {
+  constructor(clienteId) {
+    this.clienteId = clienteId;
+    this.carrinho = new Carrinho();
+    this.pagamento = null;
+    this.status = 'Novo';
+  }
+
+  novoPedido() {
+    console.log('Novo pedido criado.');
+  }
+
+  cancelaPedido() {
+    console.log('Pedido cancelado.');
+    this.status = 'Cancelado';
+  }
+
+  atualizaPedido() {
+    console.log('Pedido atualizado.');
+  }
+}
