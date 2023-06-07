@@ -47,5 +47,34 @@ def departmentViewSet(request,id=0):
         department.delete()
         return JsonResponse("Departamento deletado",safe=False)
     
+@csrf_exempt
+def productViewSet(request,id=0):
+    if request.method =='GET':       
+        products = Products.objects.all()
+        products_serializer = ProductSerializer(products,many=True)
+        return JsonResponse(products_serializer.data, safe=False)
+
+    elif request.method =='POST':
+        product_data = JSONParser().parse(request)
+        products_serializer = ProductSerializer(data=product_data)
+        if products_serializer.is_valid():
+            products_serializer.save()
+            return JsonResponse("Produto adicionado com sucesso",safe=False)
+        return JsonResponse("Falha ao adicionar produto",safe=False)
+    
+    elif request.method == 'PUT':
+        product_data= JSONParser().parse(request)
+        product = Products.objects.get(ProductId=id)
+        products_serializer = ProductSerializer(product, data=product_data)
+        if products_serializer.is_valid():
+            products_serializer.save()
+            return JsonResponse("Produto atualizado com sucesso",safe=False)
+        return JsonResponse("Falha ao atualizar produto",safe=False)
+    
+    elif request.method == 'DELETE':
+        product = Products.objects.get(ProductId=id)
+        product.delete()
+        return JsonResponse("Produto deletado",safe=False)
+    
 
     
