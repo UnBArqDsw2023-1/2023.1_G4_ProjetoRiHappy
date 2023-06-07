@@ -1,0 +1,25 @@
+// Classe Cliente
+class Cliente {
+  constructor(nome, email, cpf) {
+    this.nome = nome;
+    this.email = email;
+    this.cpf = cpf;
+  }
+
+  novoCliente() {
+    console.log('Novo cliente criado:', this.nome);
+  }
+
+  atualizarCliente(novoNome) {
+    console.log(`Cliente ${this.nome} atualizado para ${novoNome}`);
+    this.nome = novoNome;
+  }
+
+  autenticarCliente(email, cpf) {
+    if (this.email === email && this.cpf === cpf) {
+      console.log('Cliente autenticado com sucesso!');
+    } else {
+      console.log('Falha na autenticação. Verifique o email e o CPF.');
+    }
+  }
+}
