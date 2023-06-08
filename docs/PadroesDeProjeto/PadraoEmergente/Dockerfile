@@ -22,9 +22,12 @@ ENV POSTGRES_DB mydb
 ENV POSTGRES_HOST db
 ENV POSTGRES_PORT 5432
 
+# Limpar e atualizar as listas de pacotes
+RUN apt-get clean \
+    && apt-get update
+
 # Instalar o PostgreSQL
-RUN apt-get update \
-    && apt-get install -y postgresql-client
+RUN apt-get install -y postgresql-client
 
 # Expor a porta 8000
 EXPOSE 8000
