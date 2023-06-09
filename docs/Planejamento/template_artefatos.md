@@ -14,9 +14,9 @@
 
 ## 4. Histórico de versões
 
-| Versão | Descrição            | Autor           | Revisor           | Data           |
-| ------ | -------------------- | --------------- | ----------------- | -------------- |
-| 1.0    | Mudanças no artefato | Autor da versão | Revisor da versão | Data do commit |
+| Versão | Descrição            | Autor             | Revisor           | Data          |
+| ------ | -------------------- | ----------------- | ----------------- | ------------- |
+| 1.0    | Mudanças no artefato | Autor da versão   | Revisor da versão | xx/xx/xxxx    |
 
 ## 5. Referências bibliográficas
 
