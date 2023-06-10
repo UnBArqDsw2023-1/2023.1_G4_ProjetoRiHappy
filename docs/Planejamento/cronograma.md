@@ -68,7 +68,7 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 
 ### 3.3 - Entrega 3: Padrões de Projeto
 
-#### Vencimento da entrega: 09/06
+#### Vencimento da entrega: 12/06
 
 <center>
     <p style="font-size: 14px">
@@ -78,11 +78,11 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 | Data limite de entrega | Atividade                           |
 | ---------------------- | ----------------------------------- |
 | 16/05                  | Planning                            |
-| 22/05                  | Módulo Padrões de Projeto GRASPs    |
-| 29/05                  | Módulo Padrões de Projeto GoFs      |
-| 05/06                  | Módulo Padrões de Projeto Extras    |
-| 08/06                  | Elaborar relatório de participações |
-| 08/06                  | Preparar a apresentação             |
+| 11/06                  | Módulo Padrões de Projeto GRASPs    |
+| 11/06                  | Módulo Padrões de Projeto GoFs      |
+| 11/06                  | Módulo Padrões de Projeto Extras    |
+| 11/06                  | Elaborar relatório de participações |
+| 15/06                  | Preparar a apresentação             |
 
 <p style="font-size: 14px">
         Fonte: Grupo 4
