@@ -78,8 +78,10 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 | Data limite de entrega | Atividade                           |
 | ---------------------- | ----------------------------------- |
 | 16/05                  | Planning                            |
-| 11/06                  | Módulo Padrões de Projeto GRASPs    |
-| 11/06                  | Módulo Padrões de Projeto GoFs      |
+| 11/06                  | GoF: Factory Method                 |
+| 11/06                  | GoF: State                          |
+| 11/06                  | GRASP: Baixo Acoplamento            |
+| 11/06                  | GRASP: Alta Coesão                  |
 | 11/06                  | Módulo Padrões de Projeto Extras    |
 | 11/06                  | Elaborar relatório de participações |
 | 15/06                  | Preparar a apresentação             |
@@ -147,7 +149,7 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 
 <center>
     <p style="font-size: 14px">
-        Tabela 5: cronograma executado da primeira entrega
+        Tabela 5: cronograma executado da segunda entrega
     </p>
 
 | Data de entrega                         | Atividade                           | Responsável                                          |
@@ -165,6 +167,28 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 </p>
 </center>
 
+### 4.3 - Entrega 3: Padrões de projeto
+
+<center>
+    <p style="font-size: 14px">
+        Tabela 5: cronograma executado da terceira entrega
+    </p>
+
+| Data de entrega                         | Atividade                           | Responsáveis                                                  |
+| --------------------------------------- | ----------------------------------- | ------------------------------------------------------------- |
+| <span style="color: red">23/05</span>   | Planning                            | Todos                                                         |
+| <span style="color: green">10/06</span> | GoF: Factory Method                 | Caio Vitor, Wildemberg Sales, Lívia Rodrigues, Vinícius Roriz |
+| <span style="color: green">11/06</span> | GoF: State                          | Mateus Caltabiano, Matheus Soares e Pedro Henrique            |
+| <span style="color: green">11/06</span> | GRASP: Baixo Acoplamento            | Caio Vitor, Wildemberg Sales, Lívia Rodrigues, Vinícius Roriz |
+| <span style="color: green">11/06</span> | GRASP: Alta Coesão                  | Mateus Caltabiano, Matheus Soares e Pedro Henrique            |
+| <span style="color: green">11/06</span> | Padrão Extra                        | Felipe Alef, Iago Cabral e João Victor                        |
+| <span style="color: green">11/06</span> | Elaborar relatório de participações | Todos                                                         |
+
+<p style="font-size: 14px">
+        Fonte: Grupo 4
+</p>
+</center>
+
 ## 5. Histórico de versões
 
 | Versão | Descrição                                                                             | Autor             | Revisor        | Data       |
@@ -172,6 +196,7 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 | 1.0    | Abertura do documento                                                                 | Mateus Caltabiano | Matheus Soares | 23/04/2023 |
 | 1.1    | Adição do cronograma executado da entrega 1                                           | Mateus Caltabiano | Matheus Soares | 02/05/2023 |
 | 1.2    | Detalhamento do cronograma da entrega 2 e adição do cronograma executado da entrega 2 | Mateus Caltabiano | Matheus Soares | 14/05/2023 |
+| 1.3    | Detalhamento do cronograma da entrega 3 e adição do cronograma executado da entrega 3 | Mateus Caltabiano |                | 11/06/2023 |
 
 ## 6. Referências bibliográficas
 
