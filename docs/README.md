@@ -15,7 +15,6 @@
 | 18/0105051 | Lívia Rodrigues Reis  |
 | 19/0093196 | Mateus Caltabiano |
 | 19/0093480 | Matheus Soares |
-| 17/0122310 | Matheus Salim de Oliveira |
 | 19/0094486 | Pedro Henrique Nogueira  |
 | 19/0020814 | Vinícius Roriz |
 | 20/2017503 | Wildemberg Sales da Silva Junior |
