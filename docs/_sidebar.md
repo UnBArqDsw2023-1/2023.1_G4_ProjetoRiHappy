@@ -33,13 +33,13 @@
 
 - **Padrões de Projeto**
 
-  - [3. Desenho de Software (Padrões de Projeto)](./PadroesDeProjeto/3.PadroesDeProjeto.md)
-    - [3.1. Módulo Padrões de Projeto GRASPs](./PadroesDeProjeto/3.1.GRASPs.md)
-      - [3.1.1. Baixo Acoplamento](./PadroesDeProjeto/GRASPs/3.1.1.BaixoAcoplamento.md)
-      - [3.1.2. Alta Coesão](./PadroesDeProjeto/GRASPs/3.1.2.AltaCoesao.md)
-    - [3.2. Módulo Padrões de Projeto GoFs](./PadroesDeProjeto/3.2.GoFs.md)
-      - [3.2.1. Factory Method](./PadroesDeProjeto/GoFs/3.2.1.FactoryMethod.md)
-      - [3.2.2. State](./PadroesDeProjeto/GoFs/3.2.2.State.md)
+  - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md)
+    - [3.1. Módulo Padrões de Projeto GRASPs](/PadroesDeProjeto/3.1.GRASPs.md)
+      - [3.1.1. Baixo Acoplamento](/PadroesDeProjeto/GRASPs/3.1.1.BaixoAcoplamento.md)
+      - [3.1.2. Alta Coesão](/PadroesDeProjeto/GRASPs/3.1.2.AltaCoesao.md)
+    - [3.2. Módulo Padrões de Projeto GoFs](/PadroesDeProjeto/3.2.GoFs.md)
+      - [3.2.1. Factory Method](/PadroesDeProjeto/GoFs/3.2.1.FactoryMethod.md)
+      - [3.2.2. State](/PadroesDeProjeto/GoFs/3.2.2.State.md)
     - [3.3. Módulo Padrões de Projeto Extras](/PadroesDeProjeto/3.3.PadroesExtra.md)
     - [3.4. Participações - Padrões de Projeto](/PadroesDeProjeto/3.4.ParticipacoesPadroes.md)
 
