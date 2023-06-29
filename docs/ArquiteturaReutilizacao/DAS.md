@@ -19,7 +19,7 @@ tomadas no decorrer do processo de desenvolvimento.
 
 | Versão | Descrição            | Autor             | Revisor           | Data          |
 | ------ | -------------------- | ----------------- | ----------------- | ------------- |
-| 1.0    | Abertura do artefato | Pedro Henrique Nogueira, Mateus Caltabiano, Matheus Soares, João Victor e Felipe Alef | Revisor da versão | xx/xx/xxxx    |
+| 1.0    | Abertura do artefato | Pedro Henrique Nogueira, Mateus Caltabiano, Matheus Soares, João Victor e Felipe Alef | Revisor da versão | 29/06/2023    |
 
 ## 5. Referências bibliográficas
 
