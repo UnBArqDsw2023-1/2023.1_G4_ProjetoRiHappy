@@ -1,0 +1,26 @@
+# Documento de Arquitetura de Software - DAS
+
+## 1. Introdução
+
+Este documento oferece uma visão arquitetural geral do sistema, usando diversas
+visões arquiteturais para representar diferentes aspectos do mesmo. O objetivo deste
+documento é capturar e comunicar as decisões arquiteturais significativas que foram
+tomadas no decorrer do processo de desenvolvimento.
+
+## 2. Metodologia
+
+[Escrever sobre como o artefato foi ou será feito.]
+
+## 3. [Artefato]
+
+[Apresentação do artefato.]
+
+## 4. Histórico de versões
+
+| Versão | Descrição            | Autor             | Revisor           | Data          |
+| ------ | -------------------- | ----------------- | ----------------- | ------------- |
+| 1.0    | Abertura do artefato | Pedro Henrique Nogueira, Mateus Caltabiano, Matheus Soares, João Victor e Felipe Alef | Revisor da versão | xx/xx/xxxx    |
+
+## 5. Referências bibliográficas
+
+> Adicionar as referências
