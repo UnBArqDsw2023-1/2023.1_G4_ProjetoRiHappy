@@ -1,11 +1,12 @@
 # Documento de Arquitetura de Software - DAS
 
 ## 1. Introdução
-
+### 1.1 Finalidade
 Este documento oferece uma visão arquitetural geral do sistema, usando diversas
 visões arquiteturais para representar diferentes aspectos do mesmo. O objetivo deste
 documento é capturar e comunicar as decisões arquiteturais significativas que foram
 tomadas no decorrer do processo de desenvolvimento.
+### 1.2 Escopo
 
 ## 2. Metodologia
 
