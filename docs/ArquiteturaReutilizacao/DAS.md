@@ -8,6 +8,7 @@ documento é capturar e comunicar as decisões arquiteturais significativas que 
 tomadas no decorrer do processo de desenvolvimento.
 ### 1.2 Escopo
 
+O projeto possui foco em compreender o melhor o perfil de um comprador do site da RiHappy, alem de entender o fluxo de cadastro na plataforma e de perceber os processos de  vizualização, compra e pagamento dos produto.
 ## 2. Metodologia
 
 [Escrever sobre como o artefato foi ou será feito.]
@@ -21,6 +22,8 @@ tomadas no decorrer do processo de desenvolvimento.
 | Versão | Descrição            | Autor             | Revisor           | Data          |
 | ------ | -------------------- | ----------------- | ----------------- | ------------- |
 | 1.0    | Abertura do artefato | Pedro Henrique Nogueira, Mateus Caltabiano, Matheus Soares, João Victor e Felipe Alef | Revisor da versão | 29/06/2023    |
+| 1.1 | Finalidade  | Pedro Henrique Nogueira | - | 29/06/2023| 
+
 
 ## 5. Referências bibliográficas
 
