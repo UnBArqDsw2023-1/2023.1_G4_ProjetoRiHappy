@@ -37,10 +37,21 @@ A seguir é possivel ver os objetivos do software.
 
 ## 4. Visões 
 ### 4.1 Visão Logica 
-### Diagrama de Classe
+### 4.1.1 Diagrama de Classe
 
 <iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G4_ProjetoRiHappy/#/Modelagem/2.1.1.1.DiagramadeClasses"></iframe>
 
+### 4.1.2 Diagrama de Pacote
+
+<iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G4_ProjetoRiHappy/#/Modelagem/2.1.1.1.DiagramadeClasses"></iframe>
+
+### 4.1.3 Diagrama de Estado 
+
+<iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G4_ProjetoRiHappy/#/Modelagem/2.1.2.1DiagramaDeSequencia"></iframe>
+
+### 4.1.4 Diagrama de Sequência 
+
+<iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G4_ProjetoRiHappy/#/Modelagem/2.1.2.2.DiagramadeEstados"></iframe>
 
 
 
