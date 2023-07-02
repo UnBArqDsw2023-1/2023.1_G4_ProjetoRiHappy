@@ -49,6 +49,9 @@ A seguir é possivel ver os objetivos do software.
 
 <iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G4_ProjetoRiHappy/#/Modelagem/2.1.2.1DiagramaDeSequencia"></iframe>
 
+
+### 4.2 Visão de Processo 
+
 ### 4.1.4 Diagrama de Sequência 
 
 <iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G4_ProjetoRiHappy/#/Modelagem/2.1.2.2.DiagramadeEstados"></iframe>
