@@ -28,7 +28,12 @@ A seguir é possivel ver os objetivos do software.
 | Acessibilidade | O portal deve fornecer assistência aos usuários com necessidades especiais. |
 | Responsividade | As páginas devem trocar a resolução de acordo com o tamanho da tela do usuário. | 
 
+### 3.2 Restrições 
 
+| Categoria | Restrições             | 
+| ------ | -------------------- | 
+|Conectvidade | O usuário tem que estar conectado à internet durante todo o período de utilização do portal e ter acesso a um navegador web.|
+| Idioma  | O usuário deve poder escolher qual o idiomo que mais facilita a compreensão das funcionalidade do portal.  |
 
 [Apresentação do artefato.]
 
