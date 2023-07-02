@@ -35,9 +35,16 @@ A seguir é possivel ver os objetivos do software.
 |Conectvidade | O usuário tem que estar conectado à internet durante todo o período de utilização do portal e ter acesso a um navegador web.|
 | Idioma  | O usuário deve poder escolher qual o idiomo que mais facilita a compreensão das funcionalidade do portal.  |
 
-[Apresentação do artefato.]
+## 4. Visões 
+### 4.1 Visão Logica 
+### Diagrama de Classe
 
-## 4. Histórico de versões
+<iframe height="600" width="700" src="https://unbarqdsw2023-1.github.io/2023.1_G4_ProjetoRiHappy/#/Modelagem/2.1.1.1.DiagramadeClasses"></iframe>
+
+
+
+
+## 5. Histórico de versões
 
 | Versão | Descrição            | Autor             | Revisor           | Data          |
 | ------ | -------------------- | ----------------- | ----------------- | ------------- |
@@ -45,8 +52,9 @@ A seguir é possivel ver os objetivos do software.
 | 1.1 | Finalidade   | Pedro Henrique Nogueira | - | 29/06/2023| 
 | 1.2 | Escopo e Visão Geral| Pedro Henrique Nogueira | - | 30/06/2023| 
 | 1.3 | Metas e Restrições | Pedro Henrique Nogueira | - | 01/07/2023|
+|1.4| Visões | Pedro Henrique Nogueira | - | 01/07/2023 | 
 
 
-## 5. Referências bibliográficas
+## 6. Referências bibliográficas
 
 > Adicionar as referências
