@@ -23,6 +23,7 @@ O projeto possui foco em compreender o melhor o perfil de um comprador do site d
 | ------ | -------------------- | ----------------- | ----------------- | ------------- |
 | 1.0    | Abertura do artefato | Pedro Henrique Nogueira, Mateus Caltabiano, Matheus Soares, João Victor e Felipe Alef | Revisor da versão | 29/06/2023    |
 | 1.1 | Finalidade  | Pedro Henrique Nogueira | - | 29/06/2023| 
+| 1.2 | Escopo | Pedro Henrique Nogueira | - | 30/06/2023| 
 
 
 ## 5. Referências bibliográficas
