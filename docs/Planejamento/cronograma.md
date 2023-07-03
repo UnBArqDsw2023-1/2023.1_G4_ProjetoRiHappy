@@ -103,8 +103,8 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 | Data limite de entrega | Atividade                              |
 | ---------------------- | -------------------------------------- |
 | 13/06                  | Planning                               |
-| 23/06                  | Módulo Estilos e Padrões Arquiteturais |
-| 30/06                  | Módulo Reutilização de Software        |
+| 02/07                  | Módulo Estilos e Padrões Arquiteturais |
+| 02/07                  | Módulo Reutilização de Software        |
 | 02/07                  | Elaborar relatório de participações    |
 | 02/07                  | Preparar a apresentação                |
 
@@ -189,6 +189,26 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 </p>
 </center>
 
+<center>
+    <p style="font-size: 14px">
+        Tabela 5: cronograma executado da quarta entrega
+    </p>
+
+| Data de entrega                         | Atividade                           | Responsáveis                                                                              |
+| --------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------- |
+| <span style="color: red">22/06</span>   | Planning                            | Todos                                                                                     |
+| <span style="color: red">03/07</span>   | Arquitetura de software             | Felipe Alef, Iago Cabral, João Victor, Mateus Caltabiano, Matheus Soares e Pedro Henrique |
+| <span style="color: green">02/07</span> | Reutilização de software            | Caio Vitor, Wildemberg Sales, Lívia Rodrigues, Vinícius Roriz                             |
+| <span style="color: red">03/07</span>   | Elaborar relatório de participações | Todos                                                                                     |
+| <span style="color: red">06/07</span>   | Preparar a apresentação             | Todos                                                                                     |
+
+<p style="font-size: 14px">
+        Fonte: Grupo 4
+</p>
+</center>
+
+A data de entrega das tarefas tinha sido definida para o dia 02/07 por nossa data de apresentação ser no dia 03. Como um membro do grupo não podia apresentar dia 03, acabamos trocando a apresentação com outro grupo e incluímos o dia 03/07 como uma data possível para a execução de tarefas. Por este motivo, muitas datas ficaram no "vermelho" na tabela acima.
+
 ## 5. Histórico de versões
 
 | Versão | Descrição                                                                             | Autor             | Revisor        | Data       |
@@ -196,7 +216,8 @@ O cronograma foi elaborado seguindo o cronograma disponibilizado pela professora
 | 1.0    | Abertura do documento                                                                 | Mateus Caltabiano | Matheus Soares | 23/04/2023 |
 | 1.1    | Adição do cronograma executado da entrega 1                                           | Mateus Caltabiano | Matheus Soares | 02/05/2023 |
 | 1.2    | Detalhamento do cronograma da entrega 2 e adição do cronograma executado da entrega 2 | Mateus Caltabiano | Matheus Soares | 14/05/2023 |
-| 1.3    | Detalhamento do cronograma da entrega 3 e adição do cronograma executado da entrega 3 | Mateus Caltabiano |                | 11/06/2023 |
+| 1.3    | Detalhamento do cronograma da entrega 3 e adição do cronograma executado da entrega 3 | Mateus Caltabiano | Matheus Soares | 11/06/2023 |
+| 1.3    | Detalhamento do cronograma da entrega 4 e adição do cronograma executado da entrega 4 | Mateus Caltabiano | Matheus Soares | 03/07/2023 |
 
 ## 6. Referências bibliográficas
 
