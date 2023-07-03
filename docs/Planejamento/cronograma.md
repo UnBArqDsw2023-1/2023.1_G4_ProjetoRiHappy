@@ -217,7 +217,7 @@ A data de entrega das tarefas tinha sido definida para o dia 02/07 por nossa dat
 | 1.1    | Adição do cronograma executado da entrega 1                                           | Mateus Caltabiano | Matheus Soares | 02/05/2023 |
 | 1.2    | Detalhamento do cronograma da entrega 2 e adição do cronograma executado da entrega 2 | Mateus Caltabiano | Matheus Soares | 14/05/2023 |
 | 1.3    | Detalhamento do cronograma da entrega 3 e adição do cronograma executado da entrega 3 | Mateus Caltabiano | Matheus Soares | 11/06/2023 |
-| 1.3    | Detalhamento do cronograma da entrega 4 e adição do cronograma executado da entrega 4 | Mateus Caltabiano | Matheus Soares | 03/07/2023 |
+| 1.4    | Detalhamento do cronograma da entrega 4 e adição do cronograma executado da entrega 4 | Mateus Caltabiano | Matheus Soares | 03/07/2023 |
 
 ## 6. Referências bibliográficas
 
